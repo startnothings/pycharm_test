@@ -13,3 +13,4 @@ t.start()
 t.join()
 
 sys.exit('goodbye')
+sys.exit('goodbye')
